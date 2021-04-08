@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomsmith1967
+- 👋 Hi, I’m Tom Smith
 - 👀 I’m interested in Azure Cloud Technologies
 - 🌱 I’m currently learning Git and Ruby but I am more comfortable in PowerShell
 - 💞️ I’m looking to collaborate on ... 
